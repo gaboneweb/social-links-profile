@@ -92,6 +92,7 @@ body {
     background-color: var(--grey-700);
     color: var(--white);
     border: none;
+    text-decoration: none;
 }
 
 .link:hover {
